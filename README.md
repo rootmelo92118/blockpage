@@ -9,3 +9,5 @@ index-russia-AS25549-style - 195.49.168.22
 index-ukraine-AS25229-style - 77.120.3.141
 
 index-australia-AS1221-style - 101.167.166.53
+
+index-australia-AS4804-style - 3.105.44.186
