@@ -11,3 +11,5 @@ index-ukraine-AS25229-style - 77.120.3.141 (Only avaliabe for ukraine's ISP.)
 index-australia-AS1221-style - 101.167.166.53
 
 index-australia-AS4804-style - 3.105.44.186
+
+index-italy-AS5602-style - 212.97.32.22
